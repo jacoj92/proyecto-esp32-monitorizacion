@@ -75,14 +75,8 @@ Este repositorio contiene el código y los recursos necesarios para implementar 
 
 ```
 proyecto-esp32-monitorizacion/
-├── .gitignore       # Configuración para Git
-├── .pio/            # Archivos de configuración de PlatformIO
-├── .vscode/         # Configuración para Visual Studio Code
 ├── include/         # Archivos de cabecera
-├── lib/             # Bibliotecas adicionales
-├── platformio.ini   # Configuración principal del proyecto
 ├── src/             # Código fuente principal
-├── test/            # Pruebas unitarias
 └── README.md        # Documentación del proyecto
 ```
 
