@@ -103,5 +103,6 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 ---
 
 ## Contacto
-Para preguntas o sugerencias, por favor contacta a [tu correo].
+Para preguntas o sugerencias, por favor contacta a janjmore@espol.edu.ec
+
 
