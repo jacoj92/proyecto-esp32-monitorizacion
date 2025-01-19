@@ -1,5 +1,3 @@
-# proyecto-esp32-monitorizacion
-proyecto-esp32-monitorizacion
 
 
 # Sistema de Monitorización y Control Ambiental Basado en ESP32
